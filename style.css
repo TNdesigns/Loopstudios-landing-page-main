@@ -303,7 +303,7 @@ html,body{
         grid-row: 1/1;
         min-height: 178vw;
         width: 100%;
-        overflow-x: clip;
+        overflow-x: hidden;
     }
     #img1{
         display: none;
@@ -526,7 +526,7 @@ html,body{
         grid-row: 1/1;
         min-height: 178vw;
         width: 100%;
-        overflow-x: clip;
+        overflow-x: hidden;
     }
     #img1{
         display: none;
