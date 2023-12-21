@@ -525,7 +525,8 @@ html,body{
     .row1{
         grid-row: 1/1;
         min-height: 178vw;
-        background-color: green;
+        width: 100%;
+        overflow-x: clip;
     }
     #img1{
         display: none;
