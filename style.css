@@ -289,6 +289,9 @@ html,body{
     html,body{
         overflow-x: hidden;
     }
+    .content{
+        overflow-x: hidden;
+    }
     .main-bx{
         display: none;
     }
