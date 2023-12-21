@@ -293,7 +293,7 @@ html,body{
         display: none;
     }
     .main-bx2{
-        overflow-x: clip;
+        overflow-x: hidden;
         display: grid;
         grid-template-columns: auto;
         grid-template-rows: repeat(4, auto);
@@ -303,7 +303,7 @@ html,body{
         grid-row: 1/1;
         min-height: 178vw;
         width: 100%;
-        overflow-x: hidden;
+        overflow-x: clip;
     }
     #img1{
         display: none;
@@ -516,7 +516,7 @@ html,body{
         display: none;
     }
     .main-bx2{
-        overflow-x: clip;
+        overflow-x: hidden;
         display: grid;
         grid-template-columns: auto;
         grid-template-rows: repeat(4, auto);
@@ -526,7 +526,7 @@ html,body{
         grid-row: 1/1;
         min-height: 178vw;
         width: 100%;
-        overflow-x: hidden;
+        overflow-x: clip;
     }
     #img1{
         display: none;
